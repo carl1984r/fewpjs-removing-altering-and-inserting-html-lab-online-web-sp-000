@@ -210,7 +210,7 @@ And it's gone!
 ## Lab
 
 For additional practice, we've provided a series of test whose output you
-should read and then make pass. 
+should read and then make pass.
 
 ## Conclusion
 
